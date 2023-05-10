@@ -1,2 +1,2 @@
-이름: 손자현
-위코드 기수: 46기
+Name: Kaylla Son
+Wecode registration: 46th
